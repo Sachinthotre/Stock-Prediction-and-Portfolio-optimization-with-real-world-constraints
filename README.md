@@ -1,0 +1,2 @@
+# Stock Prediction and Portfolio optimization with real-world constraints
+ Develop a portfolio optimization model that not only finds the efficient frontier through mean-variance optimization but also integrates real-world constraints such as market impact, liquidity and tax considerations. Extend this project by incorporating alternative risk measures (beyond variance) into the optimization process, such as conditional value at risk(VAR) to address the portfolio's tail risk
