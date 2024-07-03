@@ -1,11 +1,9 @@
 # Stock Prediction and Portfolio optimization with real-world constraints
  Develop a portfolio optimization model that not only finds the efficient frontier through mean-variance optimization but also integrates real-world constraints such as market impact, liquidity and tax considerations. Extend this project by incorporating alternative risk measures (beyond variance) into the optimization process, such as conditional value at risk(VAR) to address the portfolio's tail risk
 
-To create a coherent and professional README file, we should arrange the code topics in an order that reflects a logical progression from fundamental analysis techniques to more advanced portfolio optimization and risk management strategies. Here’s a suggested sequence and brief descriptions that you can use:
+This repository contains a comprehensive collection of scripts and functions designed for various aspects of stock analysis and portfolio optimization. The content is organized to guide you from basic analysis techniques to sophisticated portfolio management strategies.
 
 ---
-
-This repository contains a comprehensive collection of scripts and functions designed for various aspects of stock analysis and portfolio optimization. The content is organized to guide you from basic analysis techniques to sophisticated portfolio management strategies.
 
 ### 1. **Candlestick Patterns**
 
