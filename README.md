@@ -5,8 +5,6 @@ To create a coherent and professional README file, we should arrange the code to
 
 ---
 
-## README: Stock Analysis & Portfolio Optimization
-
 This repository contains a comprehensive collection of scripts and functions designed for various aspects of stock analysis and portfolio optimization. The content is organized to guide you from basic analysis techniques to sophisticated portfolio management strategies.
 
 ### 1. **Candlestick Patterns**
