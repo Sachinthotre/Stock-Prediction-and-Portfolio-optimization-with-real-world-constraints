@@ -15,7 +15,8 @@ This repository contains a comprehensive collection of scripts and functions des
 
    - **Description:** Calculate and interpret the RSI to gauge the momentum and identify overbought or oversold conditions in stocks.
    - **Code:** `rsi_analysis.py`
-   - ![RSI Analysis](screenshots/rsi_analysis.png)
+   - ![RSI Analysis](<img width="725" alt="image" src="https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/086c089f-efb2-46dc-ae63-56c060ed4920">
+)
 
 ### 3. **Bollinger Bands**
 
