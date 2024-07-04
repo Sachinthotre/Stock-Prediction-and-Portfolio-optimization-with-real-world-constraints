@@ -9,7 +9,7 @@ This repository contains a comprehensive collection of scripts and functions des
 
    - **Description:** Identify and analyze various candlestick patterns used to predict future price movements in individual stocks.
    - **Code:** `candlestick_patterns.py`
-   - ![Candlestick Patterns](<img width="725" alt="image" src="https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/05fcc1e0-7fb1-4a63-a213-2a6c397ed9e0">
+   - ![Candlestick Patterns](![Screenshot 2024-07-04 232615](https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/8f3c84cf-46c8-40c3-b5c5-946245dea8e6)
 )
 
 ### 2. **Relative Strength Index (RSI)**
