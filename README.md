@@ -23,7 +23,8 @@ This repository contains a comprehensive collection of scripts and functions des
 
    - **Description:** Use Bollinger Bands to assess volatility and potential price reversals by calculating moving averages and standard deviations.
    - **Code:** `bollinger_bands.py`
-   - ![Bollinger Bands](screenshots/bollinger_bands.png)
+   - [Screenshot 2024-07-04 234726](https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/1a69aa2d-d903-4b2b-bf27-4f310bdec154)
+
 
 ### 4. **Single Stock Analysis**
 
