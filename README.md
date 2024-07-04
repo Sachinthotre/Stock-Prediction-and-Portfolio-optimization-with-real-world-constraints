@@ -48,25 +48,22 @@ This repository contains a comprehensive collection of scripts and functions des
    - [Screenshot 2024-07-04 235742](https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/5603a454-afa1-44df-bf56-41f2d0a8b025)
 
 
-### 7. **Event Analysis**
-
-   - **Description:** Analyze the impact of specific events on stock prices and market trends to inform trading strategies.
-   - **Code:** `event_analysis.py`
-   - ![Event Analysis](screenshots/event_analysis.png)
-
-### 8. **Sharpe Ratio Calculation**
+### 7. **Sharpe Ratio Calculation**
 
    - **Description:** Evaluate the performance of investment portfolios by calculating the Sharpe ratio, which measures risk-adjusted returns.
    - **Code:** `sharpe_ratio.py`
-   - ![Sharpe Ratio](screenshots/sharpe_ratio.png)
+   - [Screenshot 2024-07-05 000514](https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/9ad0b71a-61da-4775-bcb3-01c188d8d58a)
+   - [Screenshot 2024-07-05 000543](https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/9a99df55-8293-489e-977a-8d2b62bc4681)
 
-### 9. **Monte Carlo Simulations**
+
+
+### 8. **Monte Carlo Simulations**
 
    - **Description:** Use Monte Carlo simulations to forecast the potential future performance of stocks and portfolios by modeling various scenarios.
    - **Code:** `monte_carlo_simulation.py`
    - ![Monte Carlo Simulation](screenshots/monte_carlo_simulation.png)
 
-### 10. **Portfolio Optimization**
+### 9. **Portfolio Optimization**
 
     - **Description:** Optimize your portfolio using various algorithms and techniques to maximize returns and minimize risk.
     - **Code:** `portfolio_optimization.py`
