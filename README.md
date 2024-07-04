@@ -1,4 +1,4 @@
-![Screenshot 2024-07-04 235511](https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/fdf4b977-a805-4647-a74f-68fcf806fb5b)# Stock Prediction and Portfolio optimization with real-world constraints
+# Stock Prediction and Portfolio optimization with real-world constraints
  Develop a portfolio optimization model that not only finds the efficient frontier through mean-variance optimization but also integrates real-world constraints such as market impact, liquidity and tax considerations. Extend this project by incorporating alternative risk measures (beyond variance) into the optimization process, such as conditional value at risk(VAR) to address the portfolio's tail risk
 
 This repository contains a comprehensive collection of scripts and functions designed for various aspects of stock analysis and portfolio optimization. The content is organized to guide you from basic analysis techniques to sophisticated portfolio management strategies.
@@ -37,7 +37,8 @@ This repository contains a comprehensive collection of scripts and functions des
 
    - **Description:** Analyze and compare multiple stocks simultaneously to identify correlations, trends, and potential portfolio candidates.
    - **Code:** `multiple_stock_analysis.py`
-   - [Uploading Screenshot 2024-07-04 235511.png…]()
+   - [Screenshot 2024-07-04 235511](https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/279e6526-37f5-40e8-9f06-0729cf193f73)
+
 
 
 ### 6. **Correlation Analysis**
