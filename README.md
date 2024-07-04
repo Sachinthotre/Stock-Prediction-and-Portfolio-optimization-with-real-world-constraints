@@ -30,7 +30,8 @@ This repository contains a comprehensive collection of scripts and functions des
 
    - **Description:** Perform in-depth analysis of individual stocks, including trend analysis, moving averages, and basic technical indicators.
    - **Code:** `single_stock_analysis.py`
-   - ![Single Stock Analysis](screenshots/single_stock_analysis.png)
+   - [Screenshot 2024-07-04 235154](https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/be861bff-693f-4af1-8177-cae11464b217)
+
 
 ### 5. **Multiple Stock Analysis**
 
