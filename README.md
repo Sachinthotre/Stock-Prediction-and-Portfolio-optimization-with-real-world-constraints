@@ -9,15 +9,15 @@ This repository contains a comprehensive collection of scripts and functions des
 
    - **Description:** Identify and analyze various candlestick patterns used to predict future price movements in individual stocks.
    - **Code:** `candlestick_patterns.py`
-   - ![Candlestick Patterns]![Screenshot 2024-07-04 232615](https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/8f3c84cf-46c8-40c3-b5c5-946245dea8e6)
+   - [Screenshot 2024-07-04 232615](https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/8f3c84cf-46c8-40c3-b5c5-946245dea8e6)
 
 
 ### 2. **Relative Strength Index (RSI)**
 
    - **Description:** Calculate and interpret the RSI to gauge the momentum and identify overbought or oversold conditions in stocks.
    - **Code:** `rsi_analysis.py`
-   - ![RSI Analysis](<img width="725" alt="image" src="https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/086c089f-efb2-46dc-ae63-56c060ed4920">
-)
+   - ![Screenshot 2024-07-04 233900](https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/8bb8018f-583f-4eba-85f9-5a2a42a48611)
+
 
 ### 3. **Bollinger Bands**
 
