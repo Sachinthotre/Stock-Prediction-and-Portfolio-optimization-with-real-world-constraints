@@ -69,6 +69,7 @@ This repository contains a comprehensive collection of scripts and functions des
 
    - **Description:** Optimize your portfolio using various algorithms and techniques to maximize returns and minimize risk.
     - **Code:** `portfolio_optimization.py`
+     
     - [Screenshot 2024-07-05 001753](https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/0e526984-01ae-48ae-9153-b8faac448b56)
 
 
