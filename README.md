@@ -60,8 +60,10 @@ This repository contains a comprehensive collection of scripts and functions des
 ### 8. **Monte Carlo Simulations**
 
    - **Description:** Use Monte Carlo simulations to forecast the potential future performance of stocks and portfolios by modeling various scenarios.
-   - **Code:** `monte_carlo_simulation.py`
-   - ![Monte Carlo Simulation](screenshots/monte_carlo_simulation.png)
+   - **Code:** `monte_carlo_simulation.py
+   - [Screenshot 2024-07-05 000933](https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/501c5ad4-d602-4c3b-b241-451f68a717fa)
+
+     
 
 ### 9. **Portfolio Optimization**
 
