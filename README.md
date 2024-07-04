@@ -45,7 +45,8 @@ This repository contains a comprehensive collection of scripts and functions des
 
    - **Description:** Calculate and analyze the correlation between different stocks to understand relationships and diversify your portfolio.
    - **Code:** `correlation_analysis.py`
-   - ![Correlation Analysis](screenshots/correlation_analysis.png)
+   - [Screenshot 2024-07-04 235742](https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/5603a454-afa1-44df-bf56-41f2d0a8b025)
+
 
 ### 7. **Event Analysis**
 
