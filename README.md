@@ -75,7 +75,7 @@ This repository contains a comprehensive collection of scripts and functions des
 
 ---
 
-### How to Use
+### How to Use this Repo
 
 1. **Clone the Repository:**
    ```bash
