@@ -87,3 +87,4 @@ plt.show()
 
 # Save the plot as an image (optional)
 # plt.savefig('Apple_2015_to_2020.png')
+# The plt picture is attached in the Readme file.
