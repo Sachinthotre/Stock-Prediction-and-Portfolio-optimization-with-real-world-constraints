@@ -16,28 +16,28 @@ This repository contains a comprehensive collection of scripts and functions des
 
    - **Description:** Calculate and interpret the RSI to gauge the momentum and identify overbought or oversold conditions in stocks.
    - **Code:** `rsi_analysis.py`
-   - [Screenshot 2024-07-04 233900](https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/8bb8018f-583f-4eba-85f9-5a2a42a48611)
+   - ![Screenshot 2024-07-04 233900](https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/8bb8018f-583f-4eba-85f9-5a2a42a48611)
 
 
 ### 3. **Bollinger Bands**
 
    - **Description:** Use Bollinger Bands to assess volatility and potential price reversals by calculating moving averages and standard deviations.
    - **Code:** `bollinger_bands.py`
-   - [Screenshot 2024-07-04 234726](https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/1a69aa2d-d903-4b2b-bf27-4f310bdec154)
+   - ![Screenshot 2024-07-04 234726](https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/1a69aa2d-d903-4b2b-bf27-4f310bdec154)
 
 
 ### 4. **Single Stock Analysis**
 
    - **Description:** Perform in-depth analysis of individual stocks, including trend analysis, moving averages, and basic technical indicators.
    - **Code:** `single_stock_analysis.py`
-   - [Screenshot 2024-07-04 235154](https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/be861bff-693f-4af1-8177-cae11464b217)
+   - ![Screenshot 2024-07-04 235154](https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/be861bff-693f-4af1-8177-cae11464b217)
 
 
 ### 5. **Multiple Stock Analysis**
 
    - **Description:** Analyze and compare multiple stocks simultaneously to identify correlations, trends, and potential portfolio candidates.
    - **Code:** `multiple_stock_analysis.py`
-   - [Screenshot 2024-07-04 235511](https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/279e6526-37f5-40e8-9f06-0729cf193f73)
+   - ![Screenshot 2024-07-04 235511](https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/279e6526-37f5-40e8-9f06-0729cf193f73)
 
 
 
@@ -45,15 +45,15 @@ This repository contains a comprehensive collection of scripts and functions des
 
    - **Description:** Calculate and analyze the correlation between different stocks to understand relationships and diversify your portfolio.
    - **Code:** `correlation_analysis.py`
-   - [Screenshot 2024-07-04 235742](https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/5603a454-afa1-44df-bf56-41f2d0a8b025)
+   - ![Screenshot 2024-07-04 235742](https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/5603a454-afa1-44df-bf56-41f2d0a8b025)
 
 
 ### 7. **Sharpe Ratio Calculation**
 
    - **Description:** Evaluate the performance of investment portfolios by calculating the Sharpe ratio, which measures risk-adjusted returns.
    - **Code:** `sharpe_ratio.py`
-   - [Screenshot 2024-07-05 000514](https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/9ad0b71a-61da-4775-bcb3-01c188d8d58a)
-   - [Screenshot 2024-07-05 000543](https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/9a99df55-8293-489e-977a-8d2b62bc4681)
+   - ![Screenshot 2024-07-05 000514](https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/9ad0b71a-61da-4775-bcb3-01c188d8d58a)
+   - ![Screenshot 2024-07-05 000543](https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/9a99df55-8293-489e-977a-8d2b62bc4681)
 
 
 
@@ -61,7 +61,7 @@ This repository contains a comprehensive collection of scripts and functions des
 
    - **Description:** Use Monte Carlo simulations to forecast the potential future performance of stocks and portfolios by modeling various scenarios.
    - **Code:** `monte_carlo_simulation.py`
-   - [Screenshot 2024-07-05 000933](https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/501c5ad4-d602-4c3b-b241-451f68a717fa)
+   - ![Screenshot 2024-07-05 000933](https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/501c5ad4-d602-4c3b-b241-451f68a717fa)
 
      
 
@@ -69,7 +69,7 @@ This repository contains a comprehensive collection of scripts and functions des
 
    - **Description:** Optimize your portfolio using various algorithms and techniques to maximize returns and minimize risk.
    - **Code:** `portfolio_optimization.py`
-   - [Screenshot 2024-07-05 001753](https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/0e526984-01ae-48ae-9153-b8faac448b56)
+   - ![Screenshot 2024-07-05 001753](https://github.com/Sachinthotre/Stock-Prediction-and-Portfolio-optimization-with-real-world-constraints/assets/46932228/0e526984-01ae-48ae-9153-b8faac448b56)
 
 
 
